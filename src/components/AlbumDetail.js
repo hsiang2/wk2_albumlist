@@ -9,7 +9,7 @@ const AlbumDetail = (props) => {
                 <Image
                     style={styles.thumbnailStyle}
                     source={{
-                        url: thumbnail_image
+                        uri: thumbnail_image
                     }}
                 />
                 <View style={styles.headerContentStyle}>
@@ -21,7 +21,7 @@ const AlbumDetail = (props) => {
                 <Image
                     style={styles.imageStyle}
                     source={{
-                        url: image
+                        uri: image
                     }}
                 />
             </View>
