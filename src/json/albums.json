@@ -1,32 +1,32 @@
 [   
     {
-        "thumbnail_image": "",
+        "thumbnail_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwc9gS83osC8NgnLO7B6gSr3vHlLACEN0r1TOaobW1gmAErH69GLeIH3p5dfkRZ23llQ&usqp=CAU",
         "title": "Part of Your World", 
         "artist": "Jodi Benson", 
-        "image": ""
+        "image": "https://i.scdn.co/image/ab67616d0000b2732e3f4ade5c5249bf8bc97fb5"
     },
     {
-        "thumbnail_image": "",
+        "thumbnail_image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Paige_O%27Hara_%2849132792143%29.jpg",
         "title": "Belle", 
         "artist": "Paige O'Hara", 
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/disney/images/b/b5/Beauty-and-the-Beast-Legacy-Collection.jpeg.jpeg/revision/latest?cb=20180114211212"
     },
     {
-        "thumbnail_image": "",
+        "thumbnail_image": "https://is5-ssl.mzstatic.com/image/thumb/Features115/v4/76/99/f6/7699f611-11ba-0d34-b938-dfb90e2ea11b/pr_source.png/375x375cc.webp",
         "title": "Color of the Wind", 
         "artist": "Judy Kuhn", 
-        "image": ""
+        "image": "https://i.pinimg.com/originals/0a/8d/97/0a8d979f900e658a92145d1714871051.jpg"
     },
     {
-        "thumbnail_image": "",
+        "thumbnail_image": "https://i0.wp.com/disneydiary.com/wp-content/uploads/2017/11/Kristen-bell-idina-menzel-frozen-at-disney-d23-expo-e1510691105567.jpg?resize=780%2C470&ssl=1",
         "title": "For the First Time in Forever ", 
         "artist": "Kristen Bell & Idina Menzel", 
-        "image": ""
+        "image": "https://i.pinimg.com/originals/ba/a1/21/baa1219f33c105c4980e38c6e59f56f6.jpg"
     },
     {
-        "thumbnail_image": "",
+        "thumbnail_image": "https://img.rasset.ie/001660f2-1600.jpg",
         "title": "Touch the Sky", 
         "artist": "Julie Fowlis", 
-        "image": ""
+        "image": "https://filmmusiccentral.files.wordpress.com/2016/12/brave-original-soundtrack-cover.jpg"
     }
 ]
